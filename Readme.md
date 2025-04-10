@@ -7,7 +7,3 @@ Será necessário ter o docker e o docker-compose. Na pasta raiz, rodar o comand
 ```bash 
     docker compose up
 ```
-
-### Link do repositorio
-
-[Dockerhub](https://hub.docker.com/repository/docker/learnmorecloud/fullcycle/general)
